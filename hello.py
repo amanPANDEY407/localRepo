@@ -1,3 +1,6 @@
 # this is my first program 
 # Only printing hello world
-print("Hello World")
+nm= input("Enter Your Name:")
+
+print(f'Hello {nm}. its my first hello World program')
+
